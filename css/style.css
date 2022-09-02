@@ -592,19 +592,19 @@ header.mobile-header-1 {
   transition: all 0.3s ease-in-out;
 }
 header.mobile-header-1.open {
-  -webkit-transform: translateX(290px);
-  -moz-transform: translateX(290px);
-  -ms-transform: translateX(290px);
-  -o-transform: translateX(290px);
-  transform: translateX(290px);
+  -webkit-transform: translateX(250px);
+  -moz-transform: translateX(250px);
+  -ms-transform: translateX(250px);
+  -o-transform: translateX(250px);
+  transform: translateX(250px);
 }
 header.mobile-header-1 .menu-icon button {
   background: transparent;
   border: 0;
   cursor: pointer;
   outline: 0;
-  height: 33px;
-  width: 33px;
+  height: 30px;
+  width: 30px;
 }
 header.mobile-header-1 .menu-icon span {
   display: block;
